@@ -7,4 +7,4 @@
 - 🌱 I’m currently learning Django and Django Rest Framework
 - 💬 Ask me about everything about learning roadmaps related with Basic Programming, frontend and backend development
 
-[![Max Tiessler's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtiessler)](https://github.com/anuraghazra/github-readme-stats)
+[![Max Tiessler's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtiessler)](https://github.com/anuraghazra/github-readme-stats)]
