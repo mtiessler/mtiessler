@@ -1,10 +1,16 @@
-### Hi there 👋
+<a href=""></a>
 
-<!--
-**mtiessler/mtiessler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About Me!**
 
-- 🔭 I’m currently studying at @UPC, BarcelonaTech
-- 🌱 I’m currently learning Django and Django Rest Framework
-- 💬 Ask me about everything about learning roadmaps related with Basic Programming, frontend and backend development
+- 👨🏽‍💻  I’m currently studying at @UPC
+- 🌱 I’m currently developing Django and Django Rest Projects
+- 🤔 My interest lies in back-end web development, Data Science, Microservices and participating in Hackathons
+- 💬 Ask me about anything from [max.tiessler@estudiantat.upc.edu](max.tiessler@estudiantat.upc.edu), I love to answer!
+- 🌐 You can see my hackathon projects here: https://devpost.com/MaxTiessler
 
-[![Max Tiessler's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtiessler)](https://github.com/anuraghazra/github-readme-stats)]
+<h2 align="center"><u>My Github Stats</u></h2>
+<p align="center">
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mtiessler&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+<br>
+</p>
